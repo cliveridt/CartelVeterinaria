@@ -1,0 +1,1 @@
+Programa ya andando en modo "Automatico", cambia de animacion cada 5 seg (aprox)
