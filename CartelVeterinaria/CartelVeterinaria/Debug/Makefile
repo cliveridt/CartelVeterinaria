@@ -67,7 +67,7 @@ ADDITIONAL_DEPENDENCIES:=
 OUTPUT_FILE_DEP:= ./makedep.mk
 
 LIB_DEP+=  \
-C:/Users/LAB-PC2/Desktop/Cliver/Cartel\ Veterinaria/CartelVeterinaria/CartelVeterinaria/ArduinoCore/Debug/libArduinoCore.a
+C:/Users/LAB-PC2/Desktop/Cliver/CartelVeterinaria/CartelVeterinaria/CartelVeterinaria/ArduinoCore/Debug/libArduinoCore.a
 
 LINKER_SCRIPT_DEP+= 
 

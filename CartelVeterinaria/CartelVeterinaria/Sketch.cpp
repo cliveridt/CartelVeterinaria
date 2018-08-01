@@ -113,11 +113,11 @@ void loop() {
 	for(int i=0;i<12;i++){
 		digitalWrite(cruz1,LOW);
 		digitalWrite(cruz2,LOW);
-		digitalWrite(circ,LOW);
+		//digitalWrite(circ,LOW);
 		delay(500);
 		digitalWrite(cruz1,HIGH);
 		digitalWrite(cruz2,HIGH);
-		digitalWrite(circ,HIGH);
+		//digitalWrite(circ,HIGH);
 		delay(500);
 	}
 
